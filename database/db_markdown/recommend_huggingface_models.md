@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-06
+Updated on 2026-09-07
 
 > Generated from the Hugging Face database.
 
@@ -6760,6 +6760,7 @@ Updated on 2026-09-06
 | 10.3k | 64 | LyliaEngine/Pony_Diffusion_V6_XLText-to-Image | UpdatedMay 25, 2024 | [Link](https://huggingface.co/LyliaEngine/Pony_Diffusion_V6_XL) |
 | Updatedabout 13 hours ago | 62 | SeeSee21/Z-AnimeText-to-Image | 6B | [Link](https://huggingface.co/SeeSee21/Z-Anime) |
 |  | 61 | meituan-longcat/LongCat-ImageText-to-Image | Updatedabout 13 hours ago | [Link](https://huggingface.co/meituan-longcat/LongCat-Image) |
+| Updated2 days ago | 61 | inclusionAI/LLaDA-Image-FP8Text-to-Image | 7B | [Link](https://huggingface.co/inclusionAI/LLaDA-Image-FP8) |
 | 8.42k | 59 | cyberdelia/CyberRealisticPonyText-to-Image | Updated3 days ago | [Link](https://huggingface.co/cyberdelia/CyberRealisticPony) |
 | Updatedabout 9 hours ago | 55 | shallowdream204/BitDance-14B-64xText-to-Image | 15B | [Link](https://huggingface.co/shallowdream204/BitDance-14B-64x) |
 | 328 | 54 | briaai/FIBOText-to-Image | Updatedabout 10 hours ago | [Link](https://huggingface.co/briaai/FIBO) |
@@ -7502,6 +7503,7 @@ Updated on 2026-09-06
 | 9 | 13 | hi-paris/ssml-breaks2ssml-fr-loraText-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/hi-paris/ssml-breaks2ssml-fr-lora) |
 | Updatedabout 8 hours ago | 13 | Soul-AILab/SoulX-Podcast-1 | 2B | [Link](https://huggingface.co/Soul-AILab/SoulX-Podcast-1.7B) |
 | Updatedabout 8 hours ago | 13 | OpenMOSS-Team/MOSS-TTS-v1 | 8B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-v1.5) |
+| Updated2 days ago | 13 | phasefield-audio/Irodori-TTS-v4 | 0.8B | [Link](https://huggingface.co/phasefield-audio/Irodori-TTS-v4.1-Anime) |
 | 73 | 12 | geneing/KokoroText-to-Speech | UpdatedJan 10 | [Link](https://huggingface.co/geneing/Kokoro) |
 | 125 | 12 | Kamtera/persian-tts-female-vitsText-to-Speech | UpdatedMar 19, 2023 | [Link](https://huggingface.co/Kamtera/persian-tts-female-vits) |
 | Updated1 day ago | 12 | Aratako/MioTTS-0 | 0.1B | [Link](https://huggingface.co/Aratako/MioTTS-0.1B) |
@@ -7927,6 +7929,7 @@ Updated on 2026-09-06
 | 184 | 6 | BAAI/nova-d48w1024-osp480Text-to-Video | UpdatedDec 21, 2024 | [Link](https://huggingface.co/BAAI/nova-d48w1024-osp480) |
 | 6.29k | 6 | guoyww/animatediff-motion-lora-zoom-outText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-zoom-out) |
 |  | 6 | rehan-fal/minimax-h3-vr180-sbs-loraText-to-Video | Updatedabout 14 hours ago | [Link](https://huggingface.co/rehan-fal/minimax-h3-vr180-sbs-lora) |
+|  | 6 | EllipsesMark/minimax-h3-vr180-sbs-loraText-to-Video | Updated1 day ago | [Link](https://huggingface.co/EllipsesMark/minimax-h3-vr180-sbs-lora) |
 | 5.95k | 5 | guoyww/animatediff-motion-lora-tilt-downText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-tilt-down) |
 | 504 | 5 | guoyww/animatediff-motion-lora-v1-5-3Text-to-Video | UpdatedJul 23, 2024 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-v1-5-3) |
 | 23 | 5 | robingg1/NAVAText-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/robingg1/NAVA) |
