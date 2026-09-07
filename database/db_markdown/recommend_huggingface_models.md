@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-07
+Updated on 2026-09-08
 
 > Generated from the Hugging Face database.
 
@@ -2229,6 +2229,7 @@ Updated on 2026-09-07
 | Updatedabout 14 hours ago | 35.8k | mlx-community/gemma-4-12B-it-8bitImage-Text-to-Text | 3B | [Link](https://huggingface.co/mlx-community/gemma-4-12B-it-8bit) |
 | Updated2 days ago | 35 | DJLougen/Qwable-5-27B-CoderImage-Text-to-Text | 28B | [Link](https://huggingface.co/DJLougen/Qwable-5-27B-Coder) |
 | Updatedabout 13 hours ago | 35 | LibertAIDAI/GLM-5 | 165B | [Link](https://huggingface.co/LibertAIDAI/GLM-5.3-Flash-NVFP4) |
+| 865 | 35 | turboderp/Qwen3 | Updated7 days ago | [Link](https://huggingface.co/turboderp/Qwen3.8-Flash-Next-exl3) |
 | Updatedabout 17 hours ago | 34 | Jackrong/Qwopus3 | 9B | [Link](https://huggingface.co/Jackrong/Qwopus3.5-9B-v3-GGUF) |
 | Updatedabout 2 hours ago | 34 | meta-models/Muse-Glimmer-30B-assistantImage-Text-to-Text | 3B | [Link](https://huggingface.co/meta-models/Muse-Glimmer-30B-assistant) |
 | Updated4 days ago | 33 | prithivMLmods/Qwen2 | 8B | [Link](https://huggingface.co/prithivMLmods/Qwen2.5-VL-7B-Abliterated-Caption-it) |
@@ -3612,6 +3613,7 @@ Updated on 2026-09-07
 | UpdatedJan 9 | 4 | TESS-Computer/qwen-click-ditImage-to-Text | 4B | [Link](https://huggingface.co/TESS-Computer/qwen-click-dit) |
 | UpdatedSep 28, 2025 | 4 | Glazkov/qwen2 | 4B | [Link](https://huggingface.co/Glazkov/qwen2.5-vl-table-extraction-FP8-Dynamic) |
 | Updatedabout 15 hours ago | 4 | JustANormalTinkerer/hayai-ocr-v2Image-to-Text | 0.2B | [Link](https://huggingface.co/JustANormalTinkerer/hayai-ocr-v2) |
+| 7.95k | 4 | PaddlePaddle/RT-DETR-L_wired_table_cell_detImage-to-Text | UpdatedJul 22, 2025 | [Link](https://huggingface.co/PaddlePaddle/RT-DETR-L_wired_table_cell_det) |
 | 299 | 3 | cnmoro/nano-image-captioningImage-to-Text | Updatedabout 1 month ago | [Link](https://huggingface.co/cnmoro/nano-image-captioning) |
 | 45 | 3 | braintacles/brainblipImage-to-Text | UpdatedJun 27, 2024 | [Link](https://huggingface.co/braintacles/brainblip) |
 | 55 | 3 | sbintuitions/sarashina2-vision-8bImage-to-Text | Updated8 days ago | [Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b) |
@@ -3932,6 +3934,7 @@ Updated on 2026-09-07
 | 8 | Unknown | small-models-for-glam/kraken-ppocrv6-mediumImage-to-Text | Updatedabout 13 hours ago | [Link](https://huggingface.co/small-models-for-glam/kraken-ppocrv6-medium) |
 | 1 | Unknown | HackerAditya56/NutriScan-3BImage-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/HackerAditya56/NutriScan-3B) |
 | 1 | Unknown | avishadilhara/sinhala-deepseek-ocr-QloraImage-to-Text | UpdatedJul 1 | [Link](https://huggingface.co/avishadilhara/sinhala-deepseek-ocr-Qlora) |
+| 10 | Unknown | bodhan-ai/indic-ocrImage-to-Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/bodhan-ai/indic-ocr) |
 
 ## Image-to-Video
 
@@ -6151,6 +6154,7 @@ Updated on 2026-09-07
 | Updatedabout 18 hours ago | 13 | openai/circuit-sparsityText | 0.4B | [Link](https://huggingface.co/openai/circuit-sparsity) |
 | Updatedabout 3 hours ago | 13 | tencent/Hy3-previewText | 299B | [Link](https://huggingface.co/tencent/Hy3-preview) |
 | Updated1 day ago | 13 | microsoft/FastContext-1 | 4B | [Link](https://huggingface.co/microsoft/FastContext-1.0-4B-SFT) |
+| Updatedabout 10 hours ago | 13 | openbmb/MiniCPM5-2BText | 3B | [Link](https://huggingface.co/openbmb/MiniCPM5-2B) |
 | Updatedabout 6 hours ago | 12 | Alibaba-Apsara/DASD-4B-ThinkingText | 4B | [Link](https://huggingface.co/Alibaba-Apsara/DASD-4B-Thinking) |
 | Updated6 days ago | 12.5k | nvidia/MiniMax-M2 | 116B | [Link](https://huggingface.co/nvidia/MiniMax-M2.7-NVFP4) |
 | Updated7 days ago | 12.2k | tvall43/Qwen3 | 14B | [Link](https://huggingface.co/tvall43/Qwen3.6-14B-A3B-FableVibes-GGUF) |
@@ -7435,6 +7439,7 @@ Updated on 2026-09-07
 | Updated4 days ago | 58 | scrappylabsai/warbleText-to-Speech | 0.6B | [Link](https://huggingface.co/scrappylabsai/warble) |
 | Updated3 days ago | 57 | mlx-community/VoxCPM1 | 0.9B | [Link](https://huggingface.co/mlx-community/VoxCPM1.5) |
 | Updated1 day ago | 54 | nineninesix/kani-tts-370m-expo2025-osaka-jaText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-370m-expo2025-osaka-ja) |
+| Updatedabout 9 hours ago | 53 | bodhan-ai/indic-speakText-to-Speech | 3B | [Link](https://huggingface.co/bodhan-ai/indic-speak) |
 | Updatedabout 8 hours ago | 51 | neuphonic/neutts-air-q8-ggufText-to-Speech | 0.7B | [Link](https://huggingface.co/neuphonic/neutts-air-q8-gguf) |
 | Updated3 days ago | 50 | nineninesix/kani-tts-400m-koText-to-Speech | 0.4B | [Link](https://huggingface.co/nineninesix/kani-tts-400m-ko) |
 | 38.3k | 48 | SWivid/E2-TTSText-to-Speech | UpdatedMar 12 | [Link](https://huggingface.co/SWivid/E2-TTS) |
@@ -7520,6 +7525,7 @@ Updated on 2026-09-07
 | 22 | 10 | hynt/F5-TTS-Vietnamese-ViVoiceText-to-Speech | Updated35 minutes ago | [Link](https://huggingface.co/hynt/F5-TTS-Vietnamese-ViVoice) |
 | Updatedabout 12 hours ago | 10 | Aratako/Irodori-TTS-500MText-to-Speech | 0.5B | [Link](https://huggingface.co/Aratako/Irodori-TTS-500M) |
 | 65 | 10 | xmanii/Ava-82MText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/xmanii/Ava-82M) |
+| Updatedabout 21 hours ago | 10 | mehdi-hf/pocket-tts-farsiText-to-Speech | 0.1B | [Link](https://huggingface.co/mehdi-hf/pocket-tts-farsi) |
 | Updated1 day ago | 9 | OpenMOSS-Team/MOSS-TTS-RealtimeText-to-Speech | 2B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Realtime) |
 | 1.31k | 9 | OpenMOSS-Team/MOSS-TTS-Local-TransformerText-to-Speech | Updated1 day ago | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Local-Transformer) |
 | Updatedabout 23 hours ago | 9 | Aratako/Irodori-TTS-600M-v3-VoiceDesignText-to-Speech | 0.6B | [Link](https://huggingface.co/Aratako/Irodori-TTS-600M-v3-VoiceDesign) |
