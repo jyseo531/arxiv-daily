@@ -7318,6 +7318,7 @@ Updated on 2026-09-07
 | 6 | Unknown | t8star/SenseNova-U1 | Updatedabout 9 hours ago | [Link](https://huggingface.co/t8star/SenseNova-U1.5-Comfy) |
 | 7 | Unknown | mrjackspade/Ideogram4-Natural-Language-Text-EncoderText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/mrjackspade/Ideogram4-Natural-Language-Text-Encoder) |
 | 10 | Unknown | Vaelico/WulverText-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/Vaelico/Wulver) |
+| 213 |  | Edweibin/flux-dev-nfswText-to-Image | UpdatedAug 26, 2025 | [Link](https://huggingface.co/Edweibin/flux-dev-nfsw) |
 
 ## Text-to-Speech
 
@@ -7930,6 +7931,7 @@ Updated on 2026-09-07
 | 6.29k | 6 | guoyww/animatediff-motion-lora-zoom-outText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-zoom-out) |
 |  | 6 | rehan-fal/minimax-h3-vr180-sbs-loraText-to-Video | Updatedabout 14 hours ago | [Link](https://huggingface.co/rehan-fal/minimax-h3-vr180-sbs-lora) |
 |  | 6 | EllipsesMark/minimax-h3-vr180-sbs-loraText-to-Video | Updated1 day ago | [Link](https://huggingface.co/EllipsesMark/minimax-h3-vr180-sbs-lora) |
+| 79 | 6 | Raretutor/vdn-minimax-h3-comfyui-int8-convrotText-to-Video | Updatedabout 18 hours ago | [Link](https://huggingface.co/Raretutor/vdn-minimax-h3-comfyui-int8-convrot) |
 | 5.95k | 5 | guoyww/animatediff-motion-lora-tilt-downText-to-Video | UpdatedNov 3, 2023 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-tilt-down) |
 | 504 | 5 | guoyww/animatediff-motion-lora-v1-5-3Text-to-Video | UpdatedJul 23, 2024 | [Link](https://huggingface.co/guoyww/animatediff-motion-lora-v1-5-3) |
 | 23 | 5 | robingg1/NAVAText-to-Video | Updatedabout 8 hours ago | [Link](https://huggingface.co/robingg1/NAVA) |
