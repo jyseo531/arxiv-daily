@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-08
+Updated on 2026-09-09
 
 > Generated from the Hugging Face database.
 
@@ -6726,6 +6726,7 @@ Updated on 2026-09-08
 | 3.97k | 317 | Shitao/OmniGen-v1Text-to-Image | UpdatedNov 7, 2024 | [Link](https://huggingface.co/Shitao/OmniGen-v1) |
 | Updatedabout 14 hours ago | 311 | unsloth/ERNIE-Image-GGUFText-to-Image | 8B | [Link](https://huggingface.co/unsloth/ERNIE-Image-GGUF) |
 | Updated5 days ago | 301 | nvidia/Cosmos3-Super-Text2Image-4StepText-to-Image | 64B | [Link](https://huggingface.co/nvidia/Cosmos3-Super-Text2Image-4Step) |
+| Updatedabout 21 hours ago | 283 | neonforestmist/Clover-Image-TinyText-to-Image | 0.3B | [Link](https://huggingface.co/neonforestmist/Clover-Image-Tiny) |
 | 70.7k | 272 | nunchaku-ai/nunchaku-qwen-image-edit-2509Text-to-Image | UpdatedNov 16, 2025 | [Link](https://huggingface.co/nunchaku-ai/nunchaku-qwen-image-edit-2509) |
 | Updatedabout 15 hours ago | 266 | Danrisi/UltraReal_FineTune_AnimaText-to-Image | 2B | [Link](https://huggingface.co/Danrisi/UltraReal_FineTune_Anima) |
 | 15.3k | 254 | InstantX/FLUX | UpdatedNov 23, 2024 | [Link](https://huggingface.co/InstantX/FLUX.1-dev-IP-Adapter) |
@@ -7516,6 +7517,7 @@ Updated on 2026-09-08
 | 125 | 12 | Kamtera/persian-tts-female-vitsText-to-Speech | UpdatedMar 19, 2023 | [Link](https://huggingface.co/Kamtera/persian-tts-female-vits) |
 | Updated1 day ago | 12 | Aratako/MioTTS-0 | 0.1B | [Link](https://huggingface.co/Aratako/MioTTS-0.1B) |
 | 43 | 12 | KRAFTON/Raon-OpenTTS-0 | Updatedabout 12 hours ago | [Link](https://huggingface.co/KRAFTON/Raon-OpenTTS-0.3B) |
+| Updatedabout 2 hours ago | 12 | rumik-ai/rumik-oss-1Text-to-Speech | 3B | [Link](https://huggingface.co/rumik-ai/rumik-oss-1) |
 | 109 | 11 | NeuroDonu/RU-XTTS-DonuModelText-to-Speech | UpdatedMay 1, 2024 | [Link](https://huggingface.co/NeuroDonu/RU-XTTS-DonuModel) |
 | 36 | 11 | Abhinay45/XTTS-Hindi-finetunedText-to-Speech | UpdatedJan 11 | [Link](https://huggingface.co/Abhinay45/XTTS-Hindi-finetuned) |
 | 10.4k | 11 | JTS-AI/JaiTTS-F5TTSText-to-Speech | Updated27 days ago | [Link](https://huggingface.co/JTS-AI/JaiTTS-F5TTS) |
