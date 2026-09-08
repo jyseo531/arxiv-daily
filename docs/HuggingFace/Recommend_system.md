@@ -355,6 +355,7 @@ Updated on 2026-09-08
 | Updatedabout 3 hours ago | 1.48k | unsloth/gemma-4-E4B-it-qat-mobile-GGUFAny-to-Any | 7B | [Link](https://huggingface.co/unsloth/gemma-4-E4B-it-qat-mobile-GGUF) |
 | Updated7 days ago | 1.67k | google/gemma-4-E4B-it-qat-q4_0-unquantizedAny-to-Any | 8B | [Link](https://huggingface.co/google/gemma-4-E4B-it-qat-q4_0-unquantized) |
 | Updated3 days ago | 1.25k | huihui-ai/Huihui-gemma-4-31B-it-qat-q4_0-unquantized-abliterated-GGUFAny-to-Any | 31B | [Link](https://huggingface.co/huihui-ai/Huihui-gemma-4-31B-it-qat-q4_0-unquantized-abliterated-GGUF) |
+| UpdatedApr 11 | 1.53k | bullerwins/Huihui-gemma-4-26B-A4B-it-abliterated-GGUFAny-to-Any | 25B | [Link](https://huggingface.co/bullerwins/Huihui-gemma-4-26B-A4B-it-abliterated-GGUF) |
 | 2 | Unknown | guanwenhao/MonoSpeechAny-to-Any | Updated7 days ago | [Link](https://huggingface.co/guanwenhao/MonoSpeech) |
 | 22 | Unknown | Goekdeniz-Guelmez/J | UpdatedOct 29, 2024 | [Link](https://huggingface.co/Goekdeniz-Guelmez/J.O.S.I.E.v4o) |
 | 1 | Unknown | hfcsrd/cryptographyAny-to-Any | UpdatedNov 17, 2024 | [Link](https://huggingface.co/hfcsrd/cryptography) |
@@ -6305,6 +6306,7 @@ Updated on 2026-09-08
 | Updated5 days ago | 2.21k | InternScience/Agents-A1-4BText | 5B | [Link](https://huggingface.co/InternScience/Agents-A1-4B) |
 | Updated2 days ago | 2.57k | IFM/K2-Horizon-0 | 1B | [Link](https://huggingface.co/IFM/K2-Horizon-0.9B) |
 | Updated3 days ago | 2.75k | nvidia/DeepSeek-V4-Flash-0731-NVFP4Text | 304B | [Link](https://huggingface.co/nvidia/DeepSeek-V4-Flash-0731-NVFP4) |
+| Updatedabout 21 hours ago | 2 | openbmb/MiniCPM5-2B-GGUFText | 3B | [Link](https://huggingface.co/openbmb/MiniCPM5-2B-GGUF) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
