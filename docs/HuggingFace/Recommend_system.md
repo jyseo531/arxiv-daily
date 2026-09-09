@@ -24,6 +24,7 @@ Updated on 2026-09-09
 | Updatedabout 10 hours ago | 629 | meituan-longcat/LongCat-Flash-OmniAny-to-Any | 561B | [Link](https://huggingface.co/meituan-longcat/LongCat-Flash-Omni) |
 | 189k | 577 | deepseek-ai/Janus-1 | Updated29 days ago | [Link](https://huggingface.co/deepseek-ai/Janus-1.3B) |
 | Updatedabout 10 hours ago | 571 | inclusionAI/Ming-flash-omni-PreviewAny-to-Any | 104B | [Link](https://huggingface.co/inclusionAI/Ming-flash-omni-Preview) |
+| Updated27 days ago | 570k | RedHatAI/gemma-4-12B-it-FP8-DynamicAny-to-Any | 13B | [Link](https://huggingface.co/RedHatAI/gemma-4-12B-it-FP8-Dynamic) |
 | Updated2 days ago | 567 | google/gemma-4-E2B-it-qat-mobile-ctAny-to-Any | 6B | [Link](https://huggingface.co/google/gemma-4-E2B-it-qat-mobile-ct) |
 | UpdatedApr 14 | 541 | second-state/Llama-4-Scout-17B-16E-Instruct-GGUFAny-to-Any | 108B | [Link](https://huggingface.co/second-state/Llama-4-Scout-17B-16E-Instruct-GGUF) |
 | Updated22 days ago | 541k | google/gemma-4-E4B-it-qat-w4a16-ctAny-to-Any | 9B | [Link](https://huggingface.co/google/gemma-4-E4B-it-qat-w4a16-ct) |
@@ -2005,6 +2006,7 @@ Updated on 2026-09-09
 | Updatedabout 18 hours ago | 841 | trohrbaugh/Qwen3 | 27B | [Link](https://huggingface.co/trohrbaugh/Qwen3.8-27B-heretic-ara) |
 | Updatedabout 3 hours ago | 840 | thinkingmachines/Inkling-SmallImage-Text-to-Text | 266B | [Link](https://huggingface.co/thinkingmachines/Inkling-Small) |
 | Updatedabout 4 hours ago | 829 | lmms-lab/LLaVA-OneVision-1 | 9B | [Link](https://huggingface.co/lmms-lab/LLaVA-OneVision-1.5-8B-Instruct) |
+| Updated6 days ago | 814 | orcarouter/DeepSeek-V4-Flash-Vision-UncensoredImage-Text-to-Text | 305B | [Link](https://huggingface.co/orcarouter/DeepSeek-V4-Flash-Vision-Uncensored) |
 | Updated3 days ago | 776 | Qwen/Qwen-Drive-1 | 5B | [Link](https://huggingface.co/Qwen/Qwen-Drive-1.0-4B) |
 | Updated2 days ago | 764 | unsloth/LFM2 | 1B | [Link](https://huggingface.co/unsloth/LFM2.5-VL-1.6B-GGUF) |
 | Updated3 days ago | 759 | Qwen/Qwen3-VL-2B-Instruct-FP8Image-Text-to-Text | 2B | [Link](https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct-FP8) |
@@ -6307,6 +6309,7 @@ Updated on 2026-09-09
 | Updated2 days ago | 2.57k | IFM/K2-Horizon-0 | 1B | [Link](https://huggingface.co/IFM/K2-Horizon-0.9B) |
 | Updated3 days ago | 2.75k | nvidia/DeepSeek-V4-Flash-0731-NVFP4Text | 304B | [Link](https://huggingface.co/nvidia/DeepSeek-V4-Flash-0731-NVFP4) |
 | Updatedabout 21 hours ago | 2 | openbmb/MiniCPM5-2B-GGUFText | 3B | [Link](https://huggingface.co/openbmb/MiniCPM5-2B-GGUF) |
+| Updatedabout 12 hours ago | 2 | nex-agi/Nex-N2 | 35B | [Link](https://huggingface.co/nex-agi/Nex-N2.5-mini) |
 | 13.7k | 1.81k | perplexity-ai/r1-1776Text | Updatedabout 8 hours ago | [Link](https://huggingface.co/perplexity-ai/r1-1776) |
 | Updatedabout 4 hours ago | 1.14k | HuggingFaceTB/SmolLM3-3BText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) |
 | Updatedabout 4 hours ago | 1.21k | HuggingFaceTB/SmolLM3-3B-BaseText | 3B | [Link](https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base) |
@@ -7029,6 +7032,7 @@ Updated on 2026-09-09
 | Updated4 days ago | 2.33k | vantagewithai/Z-Image-Turbo-GGUFText-to-Image | 6B | [Link](https://huggingface.co/vantagewithai/Z-Image-Turbo-GGUF) |
 | UpdatedNov 19, 2025 | 2.29k | kpsss34/FHDR_UncensoredText-to-Image | 12B | [Link](https://huggingface.co/kpsss34/FHDR_Uncensored) |
 | Updatedabout 24 hours ago | 2 | leejet/ideogram-4-GGUFText-to-Image | 9B | [Link](https://huggingface.co/leejet/ideogram-4-GGUF) |
+| Updated4 days ago | 2.72k | realrebelai/LLaDa-Image_ComfyUIText-to-Image | 16B | [Link](https://huggingface.co/realrebelai/LLaDa-Image_ComfyUI) |
 | 90.4k | 1.31k | xinsir/controlnet-union-sdxl-1 | UpdatedJul 30, 2024 | [Link](https://huggingface.co/xinsir/controlnet-union-sdxl-1.0) |
 | 387k | 1.66k | h94/IP-Adapter-FaceIDText-to-Image | UpdatedApr 16, 2024 | [Link](https://huggingface.co/h94/IP-Adapter-FaceID) |
 | Updated6 days ago | 1.58k | QuantStack/Chroma1-HD-GGUFText-to-Image | 9B | [Link](https://huggingface.co/QuantStack/Chroma1-HD-GGUF) |
@@ -8308,6 +8312,7 @@ Updated on 2026-09-09
 | 8 | Unknown | t8star/Vdn-Minimax-H3-ComfyText-to-Video | Updatedabout 2 hours ago | [Link](https://huggingface.co/t8star/Vdn-Minimax-H3-Comfy) |
 | 77 |  | vpakarinen/better-human-motion-h3-loraText-to-Video | Updatedabout 5 hours ago | [Link](https://huggingface.co/vpakarinen/better-human-motion-h3-lora) |
 | 17 |  | vpakarinen/insta-tiktok-aesthetics-h3-loraText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/vpakarinen/insta-tiktok-aesthetics-h3-lora) |
+| 28 |  | vpakarinen/natural-face-speech-h3-loraText-to-Video | Updated1 day ago | [Link](https://huggingface.co/vpakarinen/natural-face-speech-h3-lora) |
 
 ## Text2Text Generation
 
