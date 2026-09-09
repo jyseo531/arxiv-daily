@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-09
+Updated on 2026-09-10
 
 > Generated from the Hugging Face database.
 
@@ -203,6 +203,7 @@ Updated on 2026-09-09
 | Updatedabout 10 hours ago | 9.82k | nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16Any-to-Any | 33B | [Link](https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16) |
 | Updatedabout 1 hour ago | 9 | unsloth/gemma-4-12B-it-qat-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/unsloth/gemma-4-12B-it-qat-GGUF) |
 | Updated7 days ago | 9.27k | llmfan46/gemma-4-12B-it-qat-q4_0-uncensored-heretic-GGUFAny-to-Any | 12B | [Link](https://huggingface.co/llmfan46/gemma-4-12B-it-qat-q4_0-uncensored-heretic-GGUF) |
+| UpdatedJun 9 | 9 | aoiandroid/gemma-4-12B-it-abliterated-uncensoredAny-to-Any | 12B | [Link](https://huggingface.co/aoiandroid/gemma-4-12B-it-abliterated-uncensored) |
 | UpdatedJul 9 | 8 | toandev/donglao-gemma-3-4b-it-viAny-to-Any | 4B | [Link](https://huggingface.co/toandev/donglao-gemma-3-4b-it-vi) |
 | Updated13 days ago | 8.66k | llmfan46/gemma-4-E4B-it-uncensored-heretic-GGUFAny-to-Any | 8B | [Link](https://huggingface.co/llmfan46/gemma-4-E4B-it-uncensored-heretic-GGUF) |
 | Updatedabout 1 hour ago | 8 | sensenova/SenseNova-U1-8B-MoT-InfographicAny-to-Any | 18B | [Link](https://huggingface.co/sensenova/SenseNova-U1-8B-MoT-Infographic) |
@@ -3229,6 +3230,7 @@ Updated on 2026-09-09
 | 7 | Unknown | PoopMan333/H3_Character_Sheet_GeneratorImage-to-Image | Updated26 minutes ago | [Link](https://huggingface.co/PoopMan333/H3_Character_Sheet_Generator) |
 | 5 | Unknown | joyfox/SenseNova-U1 | Updatedabout 12 hours ago | [Link](https://huggingface.co/joyfox/SenseNova-U1.5-8B-MoT-FP8) |
 | 95.2k |  | ScottzillaSystems/qwen-image-edit-plus-nsfw-loraImage-to-Image | UpdatedApr 26 | [Link](https://huggingface.co/ScottzillaSystems/qwen-image-edit-plus-nsfw-lora) |
+| 12 | Unknown | eric-venti-seeds/Eyes_Direction_Lora_Flux2Klein9BImage-to-Image | Updatedabout 16 hours ago | [Link](https://huggingface.co/eric-venti-seeds/Eyes_Direction_Lora_Flux2Klein9B) |
 
 ## Image-to-Text
 
@@ -6364,6 +6366,7 @@ Updated on 2026-09-09
 | Updated5 days ago | 1.65k | SupraLabs/Supra2-100M-InstructText | 0.1B | [Link](https://huggingface.co/SupraLabs/Supra2-100M-Instruct) |
 | Updatedabout 10 hours ago | 1.48k | incoai/Qwen3 | 2B | [Link](https://huggingface.co/incoai/Qwen3.8-27B-DFlash2) |
 | Updatedabout 23 hours ago | 1.97k | jcbtc/Qwen3 | 27B | [Link](https://huggingface.co/jcbtc/Qwen3.8-27B-IU4-Kairic-Edge) |
+| Updated2 days ago | 1.3k | medismera/Qwen3 | 28B | [Link](https://huggingface.co/medismera/Qwen3.8-27B-OBLITERATED-Mythos-Class-Agentic) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -7505,12 +7508,14 @@ Updated on 2026-09-09
 | 77 | 16 | Mofa-Xingche/girl-style-bert-vits2-JPExtra-modelsText-to-Speech | UpdatedMay 31, 2024 | [Link](https://huggingface.co/Mofa-Xingche/girl-style-bert-vits2-JPExtra-models) |
 | 179 | 16 | esnya/japanese_speecht5_ttsText-to-Speech | UpdatedAug 9, 2023 | [Link](https://huggingface.co/esnya/japanese_speecht5_tts) |
 | Updatedabout 2 hours ago | 16 | OpenMOSS-Team/MOSS-TTS-GGUFText-to-Speech | 8B | [Link](https://huggingface.co/OpenMOSS-Team/MOSS-TTS-GGUF) |
+| 30 | 16 | tencent/AuK-FlashText-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/tencent/AuK-Flash) |
 | 147 | 15 | dangvansam/viet-ttsText-to-Speech | UpdatedDec 11, 2024 | [Link](https://huggingface.co/dangvansam/viet-tts) |
 | Updatedabout 18 hours ago | 15 | samuel-vitorino/soproText-to-Speech | 0.2B | [Link](https://huggingface.co/samuel-vitorino/sopro) |
 | 11 | 15 | YatharthS/LuxTTSText-to-Speech | Updatedabout 5 hours ago | [Link](https://huggingface.co/YatharthS/LuxTTS) |
 | Updatedabout 4 hours ago | 15 | pnnbao-ump/VieNeu-TTS-v2Text-to-Speech | 0.3B | [Link](https://huggingface.co/pnnbao-ump/VieNeu-TTS-v2) |
 | 2.61k | 14 | SPRINGLab/F5-Hindi-24KHzText-to-Speech | UpdatedJan 1 | [Link](https://huggingface.co/SPRINGLab/F5-Hindi-24KHz) |
 | Updated8 days ago | 14 | niobures/OuteTTSText-to-Speech | 1B | [Link](https://huggingface.co/niobures/OuteTTS) |
+| 30 | 14 | tencent/AuKText-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/tencent/AuK) |
 | 6 | 13 | OuteAI/Llama-OuteTTS-1 | Updatedabout 2 hours ago | [Link](https://huggingface.co/OuteAI/Llama-OuteTTS-1.0-1B) |
 | Updated5 days ago | 13 | OmniAICreator/Galgame-Llasa-3BText-to-Speech | 4B | [Link](https://huggingface.co/OmniAICreator/Galgame-Llasa-3B) |
 | 9 | 13 | hi-paris/ssml-breaks2ssml-fr-loraText-to-Speech | Updatedabout 3 hours ago | [Link](https://huggingface.co/hi-paris/ssml-breaks2ssml-fr-lora) |
@@ -7546,6 +7551,7 @@ Updated on 2026-09-09
 | Updatedabout 13 hours ago | 8 | Aratako/Irodori-TTS-500M-v3Text-to-Speech | 0.5B | [Link](https://huggingface.co/Aratako/Irodori-TTS-500M-v3) |
 | 12 | 8 | ErnarBahat/Spark-TTS-KazakhText-to-Speech | UpdatedJan 20 | [Link](https://huggingface.co/ErnarBahat/Spark-TTS-Kazakh) |
 | 2 | 8 | TeraSpace/TeraTTSv2Text-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/TeraSpace/TeraTTSv2) |
+| Updated15 days ago | 8.37k | Edge0/Audio8-TTS-Preview-0 | 0.2B | [Link](https://huggingface.co/Edge0/Audio8-TTS-Preview-0.1b) |
 | 1.11k | 7 | DragonLineageAI/Vi-SparkTTS-0 | Updatedabout 10 hours ago | [Link](https://huggingface.co/DragonLineageAI/Vi-SparkTTS-0.5B) |
 | 9 | 7 | canopylabs/3b-zh-pretrain-research_releaseText-to-Speech | Updatedabout 12 hours ago | [Link](https://huggingface.co/canopylabs/3b-zh-pretrain-research_release) |
 | 618 | 7 | canopylabs/3b-de-pretrain-research_releaseText-to-Speech | Updatedabout 13 hours ago | [Link](https://huggingface.co/canopylabs/3b-de-pretrain-research_release) |
@@ -7845,6 +7851,8 @@ Updated on 2026-09-09
 | 20 | Unknown | darkps/ice-012-audioText-to-Speech | Updatedabout 2 hours ago | [Link](https://huggingface.co/darkps/ice-012-audio) |
 | 9 | Unknown | ampixa/sanoTTSText-to-Speech | UpdatedJul 13 | [Link](https://huggingface.co/ampixa/sanoTTS) |
 | 6 | Unknown | dogenthq/KorvaTTSText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/dogenthq/KorvaTTS) |
+| 8 | Unknown | Gander-Omni/GanderText-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/Gander-Omni/Gander) |
+| 6 | Unknown | llm-jp/kaburi-ttsText-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/llm-jp/kaburi-tts) |
 
 ## Text-to-Video
 
