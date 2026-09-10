@@ -3815,6 +3815,7 @@ Updated on 2026-09-10
 | 21 | 1 | Hukyl/parseq-b-cyrillic-handwrittenImage-to-Text | Updated25 days ago | [Link](https://huggingface.co/Hukyl/parseq-b-cyrillic-handwritten) |
 | 14 | 1 | Aleton/Autopilot-qwen3-vlImage-to-Text | UpdatedMay 27 | [Link](https://huggingface.co/Aleton/Autopilot-qwen3-vl) |
 | 147 | 1 | Kansallisarkisto/multicentury-htr-model-smallImage-to-Text | UpdatedNov 21, 2025 | [Link](https://huggingface.co/Kansallisarkisto/multicentury-htr-model-small) |
+| 8 | 1 | lodestones/Florence-2-baseImage-to-Text | UpdatedJun 19, 2024 | [Link](https://huggingface.co/lodestones/Florence-2-base) |
 | 2.5M |  | Salesforce/blip-image-captioning-baseImage-to-Text | Updated22 days ago | [Link](https://huggingface.co/Salesforce/blip-image-captioning-base) |
 | 189k |  | microsoft/trocr-base-handwrittenImage-to-Text | Updated14 days ago | [Link](https://huggingface.co/microsoft/trocr-base-handwritten) |
 | 59.3k |  | naver-clova-ix/donut-baseImage-to-Text | UpdatedAug 13, 2022 | [Link](https://huggingface.co/naver-clova-ix/donut-base) |
@@ -6367,6 +6368,7 @@ Updated on 2026-09-10
 | Updatedabout 10 hours ago | 1.48k | incoai/Qwen3 | 2B | [Link](https://huggingface.co/incoai/Qwen3.8-27B-DFlash2) |
 | Updatedabout 23 hours ago | 1.97k | jcbtc/Qwen3 | 27B | [Link](https://huggingface.co/jcbtc/Qwen3.8-27B-IU4-Kairic-Edge) |
 | Updated2 days ago | 1.3k | medismera/Qwen3 | 28B | [Link](https://huggingface.co/medismera/Qwen3.8-27B-OBLITERATED-Mythos-Class-Agentic) |
+| Updated1 day ago | 1.77k | TokenRhythm/NeoHorse-1-4BText | 4B | [Link](https://huggingface.co/TokenRhythm/NeoHorse-1-4B) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
