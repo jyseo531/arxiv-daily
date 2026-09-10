@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-10
+Updated on 2026-09-11
 
 > Generated from the Hugging Face database.
 
@@ -158,11 +158,13 @@ Updated on 2026-09-10
 | Updated14 days ago | 24 | kr-cen/BLIP3o-Next-MICoAny-to-Any | 5B | [Link](https://huggingface.co/kr-cen/BLIP3o-Next-MICo) |
 | 2.09k | 22 | THUdyh/Ola-7bAny-to-Any | Updated6 days ago | [Link](https://huggingface.co/THUdyh/Ola-7b) |
 | 3.1k | 22 | Alpha-VLLM/Lumina-mGPT-7B-768Any-to-Any | UpdatedDec 12, 2024 | [Link](https://huggingface.co/Alpha-VLLM/Lumina-mGPT-7B-768) |
+| Updated1 day ago | 22 | XiaomiRobotics/Xiaomi-Robotics-U0-SequenceAny-to-Any | 34B | [Link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-Sequence) |
 | 253 | 20 | LanguageBind/UniWorld-V1Any-to-Any | Updatedabout 6 hours ago | [Link](https://huggingface.co/LanguageBind/UniWorld-V1) |
 | Updatedabout 10 hours ago | 20 | jinzhuoran/OmniRewardModelAny-to-Any | 8B | [Link](https://huggingface.co/jinzhuoran/OmniRewardModel) |
 | UpdatedMay 12 | 20.6k | unsloth/gemma-3-27b-itAny-to-Any | 27B | [Link](https://huggingface.co/unsloth/gemma-3-27b-it) |
 | Updatedabout 16 hours ago | 20.9k | google/gemma-4-E2B-itAny-to-Any | 5B | [Link](https://huggingface.co/google/gemma-4-E2B-it) |
 | Updated3 days ago | 20 | sequelbox/Muse-Glimmer-30B-Tachibana-AgentAny-to-Any | 30B | [Link](https://huggingface.co/sequelbox/Muse-Glimmer-30B-Tachibana-Agent) |
+| Updated1 day ago | 20 | XiaomiRobotics/Xiaomi-Robotics-U0-4B-SequenceAny-to-Any | 5B | [Link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-4B-Sequence) |
 | 142 | 19 | mit-han-lab/vila-u-7b-256Any-to-Any | UpdatedOct 29, 2024 | [Link](https://huggingface.co/mit-han-lab/vila-u-7b-256) |
 | Updatedabout 11 hours ago | 19 | Qwen/Qwen3-Omni-30B-A3B-InstructAny-to-Any | 35B | [Link](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Instruct) |
 | UpdatedApr 27 | 19 | Tokymin/SmolVLM2-2 | 2B | [Link](https://huggingface.co/Tokymin/SmolVLM2-2.2B-Instruct-video-feedback) |
@@ -2015,6 +2017,7 @@ Updated on 2026-09-10
 | Updatedabout 5 hours ago | 713k | empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUFImage-Text-to-Text | 9B | [Link](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) |
 | Updated14 days ago | 681 | ByteDance/Dolphin-1 | 0.4B | [Link](https://huggingface.co/ByteDance/Dolphin-1.5) |
 | Updatedabout 5 hours ago | 626 | tencent/HunyuanOCRImage-Text-to-Text | 1.0B | [Link](https://huggingface.co/tencent/HunyuanOCR) |
+| Updatedabout 18 hours ago | 620 | agentionai/Signal-3 | 27B | [Link](https://huggingface.co/agentionai/Signal-3.8-27B-GGUF) |
 | Updated3 days ago | 618 | p-e-w/gemma-3-12b-it-hereticImage-Text-to-Text | 12B | [Link](https://huggingface.co/p-e-w/gemma-3-12b-it-heretic) |
 | Updated3 days ago | 618 | allenai/MolmoWeb-4BImage-Text-to-Text | 5B | [Link](https://huggingface.co/allenai/MolmoWeb-4B) |
 |  | 615 | mistralai/Pixtral-12B-2409Image-Text-to-Text | UpdatedDec 26, 2024 | [Link](https://huggingface.co/mistralai/Pixtral-12B-2409) |
@@ -2491,6 +2494,7 @@ Updated on 2026-09-10
 | Updated21 days ago | 6.57k | Dogacel/Universal-DeepSeek-OCR-2Image-Text-to-Text | 3B | [Link](https://huggingface.co/Dogacel/Universal-DeepSeek-OCR-2) |
 | Updatedabout 8 hours ago | 6 | datalab-to/chandra-ocr-2Image-Text-to-Text | 5B | [Link](https://huggingface.co/datalab-to/chandra-ocr-2) |
 | Updated3 days ago | 6.15k | empero-ai/Qwable-9B-Claude-Fable-5-GGUFImage-Text-to-Text | 9B | [Link](https://huggingface.co/empero-ai/Qwable-9B-Claude-Fable-5-GGUF) |
+| Updatedabout 8 hours ago | 6 | deepseek-ai/DeepSeek-V4 | 763B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash) |
 | 168 | 5 | MBZUAI/AINImage-Text-to-Text | Updated7 days ago | [Link](https://huggingface.co/MBZUAI/AIN) |
 | Updatedabout 9 hours ago | 5 | Skywork/Skywork-R1V3-38BImage-Text-to-Text | 38B | [Link](https://huggingface.co/Skywork/Skywork-R1V3-38B) |
 | Updatedabout 7 hours ago | 5 | internlm/Intern-S1Image-Text-to-Text | 241B | [Link](https://huggingface.co/internlm/Intern-S1) |
@@ -5500,6 +5504,7 @@ Updated on 2026-09-10
 | Updated2 days ago | 332 | prism-ml/Bonsai-1 | 2B | [Link](https://huggingface.co/prism-ml/Bonsai-1.7B-gguf) |
 | Updatedabout 9 hours ago | 329 | Kwaipilot/KAT-DevText | 33B | [Link](https://huggingface.co/Kwaipilot/KAT-Dev) |
 | Updatedabout 4 hours ago | 329 | FractalAIResearch/Fathom-Search-4BText | 4B | [Link](https://huggingface.co/FractalAIResearch/Fathom-Search-4B) |
+| Updatedabout 13 hours ago | 329 | Edge0/Edge0-35B-A3B-previewText | 35B | [Link](https://huggingface.co/Edge0/Edge0-35B-A3B-preview) |
 | Updated3 days ago | 327 | nvidia/OpenReasoning-Nemotron-1 | 2B | [Link](https://huggingface.co/nvidia/OpenReasoning-Nemotron-1.5B) |
 | Updatedabout 7 hours ago | 325 | poolside/Laguna-M | 226B | [Link](https://huggingface.co/poolside/Laguna-M.1) |
 | Updatedabout 24 hours ago | 322 | AlexWortega/SIQ-1-35BText | 35B | [Link](https://huggingface.co/AlexWortega/SIQ-1-35B) |
