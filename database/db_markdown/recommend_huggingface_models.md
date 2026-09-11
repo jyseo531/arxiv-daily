@@ -3945,6 +3945,7 @@ Updated on 2026-09-11
 | 1 | Unknown | HackerAditya56/NutriScan-3BImage-to-Text | UpdatedJan 25 | [Link](https://huggingface.co/HackerAditya56/NutriScan-3B) |
 | 1 | Unknown | avishadilhara/sinhala-deepseek-ocr-QloraImage-to-Text | UpdatedJul 1 | [Link](https://huggingface.co/avishadilhara/sinhala-deepseek-ocr-Qlora) |
 | 10 | Unknown | bodhan-ai/indic-ocrImage-to-Text | Updatedabout 5 hours ago | [Link](https://huggingface.co/bodhan-ai/indic-ocr) |
+| 3 | Unknown | Intel/ocr-text-recognitionImage-to-Text | Updatedabout 6 hours ago | [Link](https://huggingface.co/Intel/ocr-text-recognition) |
 
 ## Image-to-Video
 
@@ -5538,6 +5539,7 @@ Updated on 2026-09-11
 | Updated5 days ago | 244 | jet-ai/Jet-Nemotron-4BText | 4B | [Link](https://huggingface.co/jet-ai/Jet-Nemotron-4B) |
 | Updatedabout 18 hours ago | 243 | Ex0bit/Qwen3 | 27B | [Link](https://huggingface.co/Ex0bit/Qwen3.6-27B-PRISM-PRO-DQ) |
 | Updated3 days ago | 242 | mindlab-research/Macaron-V1-VentiText | 753B | [Link](https://huggingface.co/mindlab-research/Macaron-V1-Venti) |
+| Updated3 days ago | 238 | thesysdev/OUI-1Text | 26B | [Link](https://huggingface.co/thesysdev/OUI-1) |
 | 8.85k | 235 | microsoft/BioGPT-LargeText | UpdatedFeb 5, 2023 | [Link](https://huggingface.co/microsoft/BioGPT-Large) |
 | Updated2 days ago | 235 | Multilingual-Multimodal-NLP/IndustrialCoderText | 32B | [Link](https://huggingface.co/Multilingual-Multimodal-NLP/IndustrialCoder) |
 | Updatedabout 20 hours ago | 234 | radicalnumerics/RND1-Base-0910Text | 31B | [Link](https://huggingface.co/radicalnumerics/RND1-Base-0910) |
@@ -7621,6 +7623,7 @@ Updated on 2026-09-11
 | 87 | 5 | mlboydaisuke/Pocket-TTS-LiteRTText-to-Speech | Updated6 days ago | [Link](https://huggingface.co/mlboydaisuke/Pocket-TTS-LiteRT) |
 | 287 | 5 | drbaph/Breeze-TTS-2-comfyuiText-to-Speech | Updated5 days ago | [Link](https://huggingface.co/drbaph/Breeze-TTS-2-comfyui) |
 | 20 | 5 | canberkkkkkk/ema-ttsText-to-Speech | Updated3 days ago | [Link](https://huggingface.co/canberkkkkkk/ema-tts) |
+| Updatedabout 7 hours ago | 5 | AlicanKiraz0/Kahya-TTS-v1 | 2B | [Link](https://huggingface.co/AlicanKiraz0/Kahya-TTS-v1.0) |
 | 5 | 4 | lunahr/csm-1b-safetensors-fp16Text-to-Speech | Updatedabout 10 hours ago | [Link](https://huggingface.co/lunahr/csm-1b-safetensors-fp16) |
 | 2 | 4 | VAGOsolutions/SauerkrautTTS-Preview-0 | Updatedabout 15 hours ago | [Link](https://huggingface.co/VAGOsolutions/SauerkrautTTS-Preview-0.1) |
 | 92 | 4 | QuantFactory/orpheus-3b-0 | Updated5 days ago | [Link](https://huggingface.co/QuantFactory/orpheus-3b-0.1-ft-GGUF) |
@@ -7860,6 +7863,7 @@ Updated on 2026-09-11
 | 6 | Unknown | dogenthq/KorvaTTSText-to-Speech | Updated2 days ago | [Link](https://huggingface.co/dogenthq/KorvaTTS) |
 | 8 | Unknown | Gander-Omni/GanderText-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/Gander-Omni/Gander) |
 | 6 | Unknown | llm-jp/kaburi-ttsText-to-Speech | Updatedabout 11 hours ago | [Link](https://huggingface.co/llm-jp/kaburi-tts) |
+| 6 | Unknown | genvoice/xVibePocketTTSText-to-Speech | Updated4 days ago | [Link](https://huggingface.co/genvoice/xVibePocketTTS) |
 
 ## Text-to-Video
 
