@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-11
+Updated on 2026-09-12
 
 > Generated from the Hugging Face database.
 
@@ -165,6 +165,7 @@ Updated on 2026-09-11
 | Updatedabout 16 hours ago | 20.9k | google/gemma-4-E2B-itAny-to-Any | 5B | [Link](https://huggingface.co/google/gemma-4-E2B-it) |
 | Updated3 days ago | 20 | sequelbox/Muse-Glimmer-30B-Tachibana-AgentAny-to-Any | 30B | [Link](https://huggingface.co/sequelbox/Muse-Glimmer-30B-Tachibana-Agent) |
 | Updated1 day ago | 20 | XiaomiRobotics/Xiaomi-Robotics-U0-4B-SequenceAny-to-Any | 5B | [Link](https://huggingface.co/XiaomiRobotics/Xiaomi-Robotics-U0-4B-Sequence) |
+| Updatedabout 19 hours ago | 20 | nvidia/NVIDIA-NemotronLabs-AI-for-Media-Sports-TennisAny-to-Any | 33B | [Link](https://huggingface.co/nvidia/NVIDIA-NemotronLabs-AI-for-Media-Sports-Tennis) |
 | 142 | 19 | mit-han-lab/vila-u-7b-256Any-to-Any | UpdatedOct 29, 2024 | [Link](https://huggingface.co/mit-han-lab/vila-u-7b-256) |
 | Updatedabout 11 hours ago | 19 | Qwen/Qwen3-Omni-30B-A3B-InstructAny-to-Any | 35B | [Link](https://huggingface.co/Qwen/Qwen3-Omni-30B-A3B-Instruct) |
 | UpdatedApr 27 | 19 | Tokymin/SmolVLM2-2 | 2B | [Link](https://huggingface.co/Tokymin/SmolVLM2-2.2B-Instruct-video-feedback) |
@@ -2502,6 +2503,7 @@ Updated on 2026-09-11
 | Updatedabout 11 hours ago | 5 | meituan/EvoCUA-32B-20260105Image-Text-to-Text | 33B | [Link](https://huggingface.co/meituan/EvoCUA-32B-20260105) |
 | Updated7 days ago | 5.6k | prithivMLmods/Gliese-Qwen3 | 9B | [Link](https://huggingface.co/prithivMLmods/Gliese-Qwen3.5-9B-Abliterated-Caption) |
 | Updated2 days ago | 5.94k | prefeitura-rio/Rio-3 | 403B | [Link](https://huggingface.co/prefeitura-rio/Rio-3.5-Open-397B) |
+| Updated1 day ago | 5.59k | peculiar-ragdoll/Cyber-Tiel-Coder-35B-A3B-GGUF-MTPImage-Text-to-Text | 36B | [Link](https://huggingface.co/peculiar-ragdoll/Cyber-Tiel-Coder-35B-A3B-GGUF-MTP) |
 | Updated1 day ago | 4.45k | openbmb/MiniCPM-V-4_5-ggufImage-Text-to-Text | 8B | [Link](https://huggingface.co/openbmb/MiniCPM-V-4_5-gguf) |
 | Updatedabout 12 hours ago | 4 | ibm-granite/granite-docling-258MImage-Text-to-Text | 0.3B | [Link](https://huggingface.co/ibm-granite/granite-docling-258M) |
 | Updated12 days ago | 4.44k | Jalea96/DeepSeek-OCR-bnb-4bit-NF4Image-Text-to-Text | 3B | [Link](https://huggingface.co/Jalea96/DeepSeek-OCR-bnb-4bit-NF4) |
@@ -6234,6 +6236,7 @@ Updated on 2026-09-11
 | Updatedabout 9 hours ago | 6.23k | ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUFText | 1B | [Link](https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF) |
 | Updatedabout 16 hours ago | 6 | prism-ml/Ternary-Bonsai-27B-mlx-2bitText | 3B | [Link](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit) |
 | Updatedabout 21 hours ago | 6.55k | FINAL-Bench/POCKET-35B-GGUFText | 35B | [Link](https://huggingface.co/FINAL-Bench/POCKET-35B-GGUF) |
+| Updated1 day ago | 6.08k | TokenRhythm/NeoHorse-1-9BText | 9B | [Link](https://huggingface.co/TokenRhythm/NeoHorse-1-9B) |
 | Updated28 minutes ago | 5 | unsloth/Kimi-K2-Instruct-GGUFText | 1026B | [Link](https://huggingface.co/unsloth/Kimi-K2-Instruct-GGUF) |
 | Updatedabout 4 hours ago | 5 | tencent/Hunyuan-1 | 2B | [Link](https://huggingface.co/tencent/Hunyuan-1.8B-Instruct) |
 | Updatedabout 6 hours ago | 5.68k | deepseek-ai/DeepSeek-V3 | 685B | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3.1-Base) |
@@ -7342,6 +7345,7 @@ Updated on 2026-09-11
 | 7 | Unknown | mrjackspade/Ideogram4-Natural-Language-Text-EncoderText-to-Image | Updatedabout 2 hours ago | [Link](https://huggingface.co/mrjackspade/Ideogram4-Natural-Language-Text-Encoder) |
 | 10 | Unknown | Vaelico/WulverText-to-Image | Updatedabout 5 hours ago | [Link](https://huggingface.co/Vaelico/Wulver) |
 | 213 |  | Edweibin/flux-dev-nfswText-to-Image | UpdatedAug 26, 2025 | [Link](https://huggingface.co/Edweibin/flux-dev-nfsw) |
+| 6 | Unknown | RicemanT/MageTrailText-to-Image | Updated1 day ago | [Link](https://huggingface.co/RicemanT/MageTrail) |
 
 ## Text-to-Speech
 
