@@ -1,5 +1,5 @@
 # Recommendation of HuggingFace Models
-Updated on 2026-09-12
+Updated on 2026-09-13
 
 > Generated from the Hugging Face database.
 
@@ -2241,6 +2241,7 @@ Updated on 2026-09-12
 | 865 | 35 | turboderp/Qwen3 | Updated7 days ago | [Link](https://huggingface.co/turboderp/Qwen3.8-Flash-Next-exl3) |
 | Updatedabout 17 hours ago | 34 | Jackrong/Qwopus3 | 9B | [Link](https://huggingface.co/Jackrong/Qwopus3.5-9B-v3-GGUF) |
 | Updatedabout 2 hours ago | 34 | meta-models/Muse-Glimmer-30B-assistantImage-Text-to-Text | 3B | [Link](https://huggingface.co/meta-models/Muse-Glimmer-30B-assistant) |
+| Updatedabout 2 hours ago | 34 | Agnes-AI/Agnes-3 | 33B | [Link](https://huggingface.co/Agnes-AI/Agnes-3.0-Flash) |
 | Updated4 days ago | 33 | prithivMLmods/Qwen2 | 8B | [Link](https://huggingface.co/prithivMLmods/Qwen2.5-VL-7B-Abliterated-Caption-it) |
 | Updated3 days ago | 32.8k | cyankiwi/Qwen3 | 25B | [Link](https://huggingface.co/cyankiwi/Qwen3.5-122B-A10B-AWQ-4bit) |
 | Updatedabout 9 hours ago | 32 | bartowski/Qwen3 | 27B | [Link](https://huggingface.co/bartowski/Qwen3.8-27B-GGUF) |
@@ -7486,6 +7487,7 @@ Updated on 2026-09-12
 | 2.04k | 37 | kakao-enterprise/vits-ljsText-to-Speech | UpdatedSep 7, 2023 | [Link](https://huggingface.co/kakao-enterprise/vits-ljs) |
 | Updatedabout 6 hours ago | 37 | pnnbao-ump/kani-tts-370m-vieText-to-Speech | 0.4B | [Link](https://huggingface.co/pnnbao-ump/kani-tts-370m-vie) |
 | Updated1 day ago | 35 | mlx-community/Qwen3-TTS-12Hz-0 | 0.3B | [Link](https://huggingface.co/mlx-community/Qwen3-TTS-12Hz-0.6B-CustomVoice-8bit) |
+| Updated2 days ago | 35.7k | remsky/kokoro-inno-clone-tunerText-to-Speech | 9.65M | [Link](https://huggingface.co/remsky/kokoro-inno-clone-tuner) |
 | 375 | 34 | mrfakename/OpenF5-TTS-BaseText-to-Speech | Updatedabout 1 hour ago | [Link](https://huggingface.co/mrfakename/OpenF5-TTS-Base) |
 | Updatedabout 7 hours ago | 33 | Audio8/Audio8-TTS-Preview-0 | 0.6B | [Link](https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6b) |
 | 25 | 31 | amphion/VevoText-to-Speech | Updated10 days ago | [Link](https://huggingface.co/amphion/Vevo) |
