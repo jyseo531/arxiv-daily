@@ -2088,6 +2088,7 @@ Updated on 2026-09-12
 | Updated5 days ago | 175 | DavidAU/gemma-3-12b-it-vl-GLM-4 | 12B | [Link](https://huggingface.co/DavidAU/gemma-3-12b-it-vl-GLM-4.7-Flash-Heretic-Uncensored-Thinking) |
 | Updated19 days ago | 174 | GitMylo/nsfwvision-qwen3-vl-8b-v3-safetensorsImage-Text-to-Text | 9B | [Link](https://huggingface.co/GitMylo/nsfwvision-qwen3-vl-8b-v3-safetensors) |
 | Updatedabout 7 hours ago | 171 | OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-PreviewImage-Text-to-Text | 0.4B | [Link](https://huggingface.co/OpenGVLab/InternVL3_5-GPT-OSS-20B-A4B-Preview) |
+| Updatedabout 7 hours ago | 171 | dealignai/DeepSeek-V4 | 763B | [Link](https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8) |
 | 116 | 167 | google/gemma-3-27b-itImage-Text-to-Text | Updatedabout 4 hours ago | [Link](https://huggingface.co/google/gemma-3-27b-it) |
 | 38.8k | 163 | stepfun-ai/GOT-OCR-2 | Updated25 days ago | [Link](https://huggingface.co/stepfun-ai/GOT-OCR-2.0-hf) |
 | Updatedabout 3 hours ago | 163 | THUDM/GLM-4 | 10B | [Link](https://huggingface.co/THUDM/GLM-4.1V-9B-Thinking) |
@@ -5413,6 +5414,7 @@ Updated on 2026-09-12
 | Updated1 day ago | 839 | fdtn-ai/antares-350mText | 0.4B | [Link](https://huggingface.co/fdtn-ai/antares-350m) |
 | Updated3 days ago | 809 | ibm-granite/granite-guardian-4 | 8B | [Link](https://huggingface.co/ibm-granite/granite-guardian-4.1-8b) |
 | Updated1 day ago | 808 | XYZAILab/XYZ-Aquila-proText | 397B | [Link](https://huggingface.co/XYZAILab/XYZ-Aquila-pro) |
+| Updated2 days ago | 801 | Edge0/Edge0-8B-A1B-previewText | 8B | [Link](https://huggingface.co/Edge0/Edge0-8B-A1B-preview) |
 | Updated1 day ago | 789 | FINAL-Bench/Darwin-31B-OpusText | 33B | [Link](https://huggingface.co/FINAL-Bench/Darwin-31B-Opus) |
 | Updated3 days ago | 786 | apple/FastVLM-1 | 2B | [Link](https://huggingface.co/apple/FastVLM-1.5B) |
 | Updated1 day ago | 771 | nvidia/Nemotron-Cascade-8B-ThinkingText | 8B | [Link](https://huggingface.co/nvidia/Nemotron-Cascade-8B-Thinking) |
@@ -6379,6 +6381,7 @@ Updated on 2026-09-12
 | Updatedabout 23 hours ago | 1.97k | jcbtc/Qwen3 | 27B | [Link](https://huggingface.co/jcbtc/Qwen3.8-27B-IU4-Kairic-Edge) |
 | Updated2 days ago | 1.3k | medismera/Qwen3 | 28B | [Link](https://huggingface.co/medismera/Qwen3.8-27B-OBLITERATED-Mythos-Class-Agentic) |
 | Updated1 day ago | 1.77k | TokenRhythm/NeoHorse-1-4BText | 4B | [Link](https://huggingface.co/TokenRhythm/NeoHorse-1-4B) |
+| Updated3 days ago | 1.47k | OrionLLM/OxCoder-9BText | 9B | [Link](https://huggingface.co/OrionLLM/OxCoder-9B) |
 | 4.46M |  | deepseek-ai/DeepSeek-R1Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1) |
 | 2.83M |  | deepseek-ai/DeepSeek-V3Text | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-V3) |
 | 1.1M |  | deepseek-ai/DeepSeek-R1-Distill-Qwen-1 | Updated1 day ago | [Link](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) |
@@ -6451,6 +6454,7 @@ Updated on 2026-09-12
 | 47 | Unknown | nvidia/Nemotron-Labs-Audex-30B-A3BText | Updatedabout 9 hours ago | [Link](https://huggingface.co/nvidia/Nemotron-Labs-Audex-30B-A3B) |
 | 33 | Unknown | basaltlabsai/monolith-1 | Updated1 day ago | [Link](https://huggingface.co/basaltlabsai/monolith-1.0) |
 | 40 | Unknown | Cactus-Compute/needle2Text | Updatedabout 15 hours ago | [Link](https://huggingface.co/Cactus-Compute/needle2) |
+| 43 | Unknown | peonist-ai/halogen-qwen3 | Updatedabout 4 hours ago | [Link](https://huggingface.co/peonist-ai/halogen-qwen3.8-flash-next) |
 
 ## Text Ranking
 
@@ -6773,6 +6777,7 @@ Updated on 2026-09-12
 | 3.01k | 81 | RunDiffusion/Juggernaut-XI-v11Text-to-Image | UpdatedAug 29, 2024 | [Link](https://huggingface.co/RunDiffusion/Juggernaut-XI-v11) |
 | Updated1 day ago | 80 | realrebelai/Kreamagine_v1 | 13B | [Link](https://huggingface.co/realrebelai/Kreamagine_v1.0) |
 | Updatedabout 4 hours ago | 79 | microsoft/Mage-FlowText-to-Image | 4B | [Link](https://huggingface.co/microsoft/Mage-Flow) |
+| Updated2 days ago | 78 | ivanmikhnenkov/tinydit-256Text-to-Image | 0.2B | [Link](https://huggingface.co/ivanmikhnenkov/tinydit-256) |
 | 128 | 75 | bytedance-research/USOText-to-Image | Updatedabout 4 hours ago | [Link](https://huggingface.co/bytedance-research/USO) |
 | 1.96k | 71 | aquif-ai/Reupload-Magic-Wan-Image-v1 | Updated34 minutes ago | [Link](https://huggingface.co/aquif-ai/Reupload-Magic-Wan-Image-v1.0) |
 | Updated3 days ago | 70 | bench-labs/pixelmodel-v1Text-to-Image | 23.7k | [Link](https://huggingface.co/bench-labs/pixelmodel-v1) |
@@ -8336,6 +8341,7 @@ Updated on 2026-09-12
 | 77 |  | vpakarinen/better-human-motion-h3-loraText-to-Video | Updatedabout 5 hours ago | [Link](https://huggingface.co/vpakarinen/better-human-motion-h3-lora) |
 | 17 |  | vpakarinen/insta-tiktok-aesthetics-h3-loraText-to-Video | Updatedabout 6 hours ago | [Link](https://huggingface.co/vpakarinen/insta-tiktok-aesthetics-h3-lora) |
 | 28 |  | vpakarinen/natural-face-speech-h3-loraText-to-Video | Updated1 day ago | [Link](https://huggingface.co/vpakarinen/natural-face-speech-h3-lora) |
+| 34 |  | TaoLiveAIGC/TaoMate-H3Text-to-Video | Updated3 days ago | [Link](https://huggingface.co/TaoLiveAIGC/TaoMate-H3) |
 
 ## Text2Text Generation
 
